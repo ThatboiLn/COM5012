@@ -2,7 +2,6 @@
 
 **Module:** COM5012 Object Oriented Programming — CW1  
 **Language:** C++
-
 ## Overview
 
 The SLMS is a command-line application simulating a library management system for members, librarians, and administrators. It demonstrates core OOP principles:
