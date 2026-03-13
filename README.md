@@ -1,7 +1,7 @@
 # Smart Library Management System (SLMS)
 
 **Module:** COM5012 Object Oriented Programming — CW1  
-**Language:** C++17
+**Language:** C++
 
 ## Overview
 
